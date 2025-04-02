@@ -46,9 +46,6 @@ This project is a **currency converter** application developed as part of an int
 ## Contribution
 Feel free to fork this repository, report issues, or submit pull requests if you wish to improve this project.
 
-## License
-This project is open-source and follows the MIT License.
-
 ## Author
 Developed by **Deepak Jayaram** during the **Micro IIT Internship**.
 
